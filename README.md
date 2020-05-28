@@ -1,2 +1,2 @@
 # osteostrong.github.io
-Osteostrong organization github page.
+OsteoStrong organization tech
